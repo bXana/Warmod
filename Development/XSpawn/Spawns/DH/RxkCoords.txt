@@ -1,0 +1,141 @@
+-- клокеры около солн.батареи
+{ Vector3( -4475, -5325, 1175 ), Rotation( Vector3(1, 5.36442e-007, 0), Vector3(-5.36442e-007, 1, -0), Vector3(-0, 0, 1)), "move_ladder_climbover_std" },
+{ Vector3( -4275, -5325, 1175 ), Rotation( Vector3(1, 5.36442e-007, 0), Vector3(-5.36442e-007, 1, -0), Vector3(-0, 0, 1)), "move_ladder_climbover_std" },
+{ Vector3( -4375, -5325, 1175 ), Rotation( Vector3(1, 5.36442e-007, 0), Vector3(-5.36442e-007, 1, -0), Vector3(-0, 0, 1)), "move_ladder_climbover_std" },
+-- крыша, спавн около солн.батареии рядом с боксом
+{ Vector3( -2453, -5275, 1175 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+-- крыша, спавн около солн.батареии левее
+{ Vector3( -4187, -5275, 1175 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+-- левый лифт 
+{ Vector3( -4167, -3914, 375 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "so_jump_up_elevator_hatch" },
+{ Vector3( -4153, -3904, 375 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "so_jump_up_elevator_hatch" },
+
+-- правый лифт
+{ Vector3( -4164, -3636, 376.15100097656 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "so_jump_up_elevator_hatch" },
+{ Vector3( -4150, -3625, 375 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "so_jump_up_elevator_hatch" },
+-- крыша рядом с верт.площадкой
+{ Vector3( -6532, -2825, 1175 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+
+-- крыша
+{ Vector3( -400, -4625, 1475 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "none" },
+{ Vector3( -200, -4625, 1475 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "none" },
+{ Vector3( -1125, -4650, 1475 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( -400, -4475, 1475 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "none" },
+{ Vector3( -425, -3975, 1475 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "none" },
+{ Vector3( -425, -4850, 1475 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( -700, -4975, 1475 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( -775, -5125, 1475 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "none" },
+
+-- 2-й этаж рядом с жалюзями
+{ Vector3( -6545, -1928, 375 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_window_right" },
+-- 2-й этаж рядом с жалюзями и коробкой
+{ Vector3( -6537, -1488, 375 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_window_left" },
+-- 2-й этаж рядом с коробкой и стулом
+{ Vector3( -6544, -281, 375 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_window_right" },
+-- 2-й этаж рядом CFO около площадки
+{ Vector3( -4730, 1446, 375 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "spawn_climb_window_left" },
+-- 1-й этаж над хранилищем справа
+{ Vector3( -2663, -5351, 375 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "spawn_climb_window_left" },
+-- 1-й этаж над хранилищем слева
+{ Vector3( -3943, -5345, 375 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "spawn_climb_window_right" },
+-- крыша перед выходом, видна верт.площадка
+{ Vector3( -6475, -4200, 1175 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+-- 1-й этаж рядом с полкой для книг
+{ Vector3( -45, -2434, 375 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_window_right" },
+-- 1-й этаж рядом с полкой для книг около стены
+{ Vector3( -55, -1958, 375 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_window_left" },
+-- 2-й этаж над хранилищем слева
+{ Vector3( -3935, -5352, 775 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "spawn_climb_window_right" },
+-- 2-й этаж над хранилищем справа
+{ Vector3( -2667, -5342, 775 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "spawn_climb_window_left" },
+-- 1-й этаж желтая фанера идёт слева
+{ Vector3( -51, 30, 375 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_window_right" },
+-- 1-й этаж рядом с желтой фанерой и бамбуком спрва
+{ Vector3( -50, 520, 375 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_window_left" },
+-- 1-й этаж рядом с бамбуком и блоком слева.
+{ Vector3( -1891, 1449, 375 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "spawn_climb_window_right" },
+-- крыша около солн.батареи
+{ Vector3( -4094, -5275, 1175 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+-- крыша между солн.батареей и вентилятором
+{ Vector3( -6475, -925, 1175 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+{ Vector3( -6475, -1000, 1175 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+{ Vector3( -6475, -900, 1175.0100097656 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+-- 1-й этаж спавн внутрь офиса
+{ Vector3( -4907, -4292, 375 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "repel_vert_skylight2" },
+{ Vector3( -5428, -4402, 375 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "repel_vert_skylight2" },
+-- 1-й этаж спавн перед книгами на белом столе
+{ Vector3( -1345, 1461, 375 ), Rotation( Vector3(-1, 2.38418e-007, 0), Vector3(-2.38418e-007, -1, 0), Vector3(0, 0, 1)), "spawn_climb_window_right" },
+-- 1-й этаж по центру ксерокс, справа бамбук, слева белый стол с книгами
+{ Vector3( -1618, 1460, 375 ), Rotation( Vector3(-1, 2.38418e-007, 0), Vector3(-2.38418e-007, -1, 0), Vector3(0, 0, 1)), "spawn_climb_window_left" },
+-- 1-й этаж спавн перед большими папками на белом столе
+{ Vector3( -1018, 1459, 375 ), Rotation( Vector3(-1, 2.38418e-007, 0), Vector3(-2.38418e-007, -1, 0), Vector3(0, 0, 1)), "spawn_climb_window_left" },
+-- крыша спавн рядом с солн.батареей перед отсиживалкой
+{ Vector3( -6475, -100, 1175 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+-- хранилище дальний правый
+{ Vector3( -5175, -5275, 50 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "none" },
+-- хранилище левый
+{ Vector3( -1400, -3925, 50 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "none" },
+-- хранилище правый
+{ Vector3( -5200, -3925, 50 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "none" },
+-- хранилище дальний левый
+{ Vector3( -1400, -5275, 50 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "none" },
+-- крыша спавн позади выхода перед площадкой( недалеко от офисов )
+{ Vector3( -6475, -4675, 1175 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+{ Vector3( -6475, -5075, 1175 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+-- крыша спавн позади выхода перед площадкой( недалеко от офисов ) под иным углом
+{ Vector3( -6009, -5275, 1175 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+{ Vector3( -6125, -5275, 1175 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+-- крыша спавн между старым и иным углом
+{ Vector3( -6379, -5275, 1175 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+-- крыша спавн около выхода на крышу( недалеко от будки ральфа )
+{ Vector3( -125, -3075, 1175 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_roof" },
+-- спавн около вентиляций рядом с отсиживалкой
+{ Vector3( -6475, 675, 1175 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+-- 2-й этаж направление на красн.диван слева( снизу ещё CFO )
+{ Vector3( -5891, 1450, 775 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "spawn_climb_window_left" },
+-- 2-й этаж рядом с белым диваном, по центру бамбук со стеклом
+{ Vector3( -6544, -775, 775.0009765625 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_window_left" },
+-- 2-й этаж по центру бел.диван бамбук и блок
+{ Vector3( -6551, -271, 775.0009765625 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_window_right" },
+-- 2-й этаж перед красным диваном и блоком( снизу CFO )
+{ Vector3( -4980, 1455, 775 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "spawn_climb_window_right" },
+-- 1-й этаж белый стол со стулом рядом CFO
+{ Vector3( -5570, 1457, 375 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "spawn_climb_window_right" },
+-- спавн около мальберта ( стекляшки видны )
+{ Vector3( -6549, -1875, 775 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_window_right" },
+-- 1-й этаж по центру парта, справа мелкие коробки
+{ Vector3( -6544, 44, 375 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "spawn_climb_window_left" },
+-- 1-й этаж рядом с фикусом
+{ Vector3( -199, 1451, 375 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "spawn_climb_window_right" },
+-- 2-й этаж виден ненужный офис
+{ Vector3( -48, 832, 775 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_window_right" },
+-- 2-й этаж виден зал с дискотекой
+{ Vector3( -50, -286, 775 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_window_left" },
+-- крыша спавн у края крыши дискотеки ( слева будка ральфа, справа )
+{ Vector3( -125, -900, 1175 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_roof" },
+{ Vector3( -125, -1000, 1175 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_roof" },
+-- крыша спавн по центру крыши дискотеки
+{ Vector3( -125, -75, 1175 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_roof" },
+{ Vector3( -125, -175, 1175 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_roof" },
+-- крыша спавн на правом краю дискотеки
+{ Vector3( -125, 650, 1175 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_roof" },
+-- спавн снизу по крыше с дискотекой слева
+{ Vector3( -1175, 1387, 1175 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+-- спавн снизу по крыше с дискотекой справа
+{ Vector3( -1775, 1387, 1175 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "spawn_climb_roof" },
+-- 1-й этаж рядом с цветком, но по центру желтая фанера
+{ Vector3( -48, 1318, 375 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_window_left" },
+-- 2-й этаж по краю дискотеки 
+{ Vector3( -54, -1086, 775 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_window_left" },
+-- 2-й этаж слева бамбуки, справа дискотека, в центре далеко бел.диван с цветком
+{ Vector3( -49, -1758, 775 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_window_right" },
+-- 2-й этаж дискотека чуть левее, колока в глаза бросается
+{ Vector3( -49, -757, 775 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_window_right" },
+-- 2-й этаж слева пустые полки, справа вообще ничего, по центра бамбук близко
+{ Vector3( -1628, 1459, 775 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "spawn_climb_window_left" },
+-- 1-й этаж, рядом лестница на 2-й этаж, а по центру коридор
+{ Vector3( -52, -1566, 375 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_window_right" },
+-- 1-й этаж, по центру красные диваны, и лестница на 2-й этаж
+{ Vector3( -53, -1082, 375 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "spawn_climb_window_left" },
+--
+

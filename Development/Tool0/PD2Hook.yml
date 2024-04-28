@@ -1,0 +1,38 @@
+Config:
+ OutputMode: 1
+ OutputFile: Log.log
+ PrintOffsets: true
+ ExtraCols: 10
+ ExtraRows: 10
+KeyBindings:
+- ['VK_F1', IO.lua]
+- ['VK_F4', TriggerActivator.lua]
+- ['VK_F5', lib\Lua\LastPos.lua]
+- ['VK_F6', lib\Lua\NextPos.lua]
+- ['VK_F7', lib\Lua\Activate.lua]
+- ['VK_F8', lib\Lua\CoolSave.lua]
+- ['VK_F10', lib\Lua\Blacklist.lua]
+- ['VK_F2', Vector.lua]
+- ['VK_F3', DelVector.lua]
+
+PersistScripts:
+- [Core, lib\Lua\Core.lua]
+- [Functions, lib\Lua\Functions.lua]
+
+PostRequireScripts:
+
+- ['lib/setups/setup', lib\Lua\DBG.lua]
+
+- ['lib/managers/hudmanager', lib\Lua\Chat.lua]
+- ['lib/managers/menu/menunodegui', lib\Lua\Chat.lua]
+
+- ['lib/managers/mission/elementspawnenemydummy', lib\Lua\Scaner.lua]
+
+- ['lib/units/equipment/sentry_gun/sentrygunmovement', lib\Lua\SentryGun.lua]
+- ['lib/units/equipment/sentry_gun/sentrygunbrain', lib\Lua\SentryGun.lua]
+
+- ['lib/managers/mission/elementpointofnoreturn', lib\Lua\Timer.lua]
+- ['lib/units/props/timergui', lib\Lua\Timer.lua]
+
+- ['lib/units/weapons/raycastweaponbase', lib\Lua\Parameter.lua]
+- ['lib/units/beings/player/states/playerstandard', lib\Lua\NavigationScaner.lua]

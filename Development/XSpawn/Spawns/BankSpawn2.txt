@@ -1,0 +1,594 @@
+[ 1 ]
+X : -1950
+Y : 2775
+Z : -25.000099182129
+XROT : Vector3(-1, -2.38418e-007, 0)
+YROT : Vector3(2.38418e-007, -1, 0)
+ZROT : Vector3(0, 0, 1)
+Action : none
+Key : WSec2
+Stance : Nil
+
+[ 2 ]
+X : -1300
+Y : -2300
+Z : -34.999099731445
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : WSec2
+Stance : Nil
+
+[ 3 ]
+X : -275
+Y : 425
+Z : 495.01998901367
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : WSec2
+Stance : Nil
+
+[ 4 ]
+X : -850
+Y : 925
+Z : 5.0009799003601
+XROT : Vector3(-1, -2.38418e-007, 0)
+YROT : Vector3(2.38418e-007, -1, 0)
+ZROT : Vector3(0, 0, 1)
+Action : none
+Key : WSec2
+Stance : Nil
+
+[ 5 ]
+X : -1220
+Y : -2486
+Z : 476
+XROT : Vector3(1, 0, 0)
+YROT : Vector3(0, 1, 0)
+ZROT : Vector3(0, 0, 1)
+Action : none
+Key : WSec1
+Stance : Nil
+
+[ 6 ]
+X : -394
+Y : 1632
+Z : -25
+XROT : Vector3(1, 0, 0)
+YROT : Vector3(0, 1, 0)
+ZROT : Vector3(0, 0, 1)
+Action : none
+Key : WSec1
+Stance : Nil
+
+[ 7 ]
+X : -100
+Y : 2325
+Z : -24.60000038147
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : WSec2
+Stance : Nil
+
+[ 8 ]
+X : -1925
+Y : 400
+Z : -14.999199867249
+XROT : Vector3(-1, -2.38418e-007, 0)
+YROT : Vector3(2.38418e-007, -1, 0)
+ZROT : Vector3(0, 0, 1)
+Action : none
+Key : WSec1
+Stance : Nil
+
+[ 9 ]
+X : -1000
+Y : 2150
+Z : -25
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : WSec1
+Stance : Nil
+
+[ 10 ]
+X : -5103
+Y : 1291
+Z : -125
+XROT : Vector3(-0.707108, -0.707106, 0)
+YROT : Vector3(0.707106, -0.707108, 0)
+ZROT : Vector3(0, 0, 1)
+Action : cop_car_exit_to_rifle_combat_front_r
+Key : Cop2
+Stance : cbt
+
+[ 11 ]
+X : -3000
+Y : 3775
+Z : -125
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : Cop3
+Stance : Nil
+
+[ 12 ]
+X : -4921
+Y : 1479
+Z : -125
+XROT : Vector3(-0.228375, -0.973573, 0)
+YROT : Vector3(0.973573, -0.228375, 0)
+ZROT : Vector3(0, 0, 1)
+Action : cop_car_exit_to_rifle_combat_front_l
+Key : Cop3
+Stance : cbt
+
+[ 13 ]
+X : -2900
+Y : 3775
+Z : -125
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : Cop2
+Stance : Nil
+
+[ 14 ]
+X : -2850
+Y : -3625
+Z : -125
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : Cop2
+Stance : Nil
+
+[ 15 ]
+X : -2800
+Y : -3525
+Z : -125
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : Cop1
+Stance : Nil
+
+[ 16 ]
+X : -5279
+Y : 2012
+Z : -125
+XROT : Vector3(-0.520113, -0.854097, 0)
+YROT : Vector3(0.854097, -0.520113, 0)
+ZROT : Vector3(0, 0, 1)
+Action : cop_car_exit_to_rifle_combat_front_l
+Key : Cop1
+Stance : cbt
+
+[ 17 ]
+X : -5465
+Y : 1829
+Z : -125
+XROT : Vector3(-0.911944, -0.410314, 0)
+YROT : Vector3(0.410314, -0.911944, 0)
+ZROT : Vector3(0, 0, 1)
+Action : cop_car_exit_to_rifle_combat_front_r
+Key : Cop2
+Stance : cbt
+
+[ 18 ]
+X : -3025
+Y : 3775
+Z : -125
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : BSwat1
+Stance : Nil
+
+[ 19 ]
+X : -3250
+Y : -3350
+Z : -24.997999191284
+XROT : Vector3(1, 0, 0)
+YROT : Vector3(0, 1, 0)
+ZROT : Vector3(0, 0, 1)
+Action : none
+Key : Cop2
+Stance : Nil
+
+[ 20 ]
+X : -2900
+Y : -3525
+Z : -125
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : Cop2
+Stance : Nil
+
+[ 21 ]
+X : -2900
+Y : -3600
+Z : -125
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : Cop1
+Stance : Nil
+
+[ 22 ]
+X : -2950
+Y : 3775
+Z : -125
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : Cop2
+Stance : Nil
+
+[ 23 ]
+X : -2850
+Y : 3775
+Z : -125
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : Cop3
+Stance : Nil
+
+[ 24 ]
+X : -4925
+Y : -1825
+Z : -125
+XROT : Vector3(0.955494, -0.295012, 0)
+YROT : Vector3(0.295012, 0.955494, 0)
+ZROT : Vector3(0, 0, 1)
+Action : cop_car_exit_to_rifle_combat_front_l
+Key : Cop1
+Stance : cbt
+
+[ 25 ]
+X : -4675
+Y : -1997
+Z : -125
+XROT : Vector3(0.920248, -0.391336, 0)
+YROT : Vector3(0.391336, 0.920248, 0)
+ZROT : Vector3(0, 0, 1)
+Action : cop_car_exit_to_rifle_combat_front_r
+Key : Cop3
+Stance : cbt
+
+[ 26 ]
+X : -5058
+Y : -555
+Z : -125
+XROT : Vector3(-0.341783, -0.939779, 0)
+YROT : Vector3(0.939779, -0.341783, 0)
+ZROT : Vector3(0, 0, 1)
+Action : cop_car_exit_to_rifle_combat_front_l
+Key : Cop2
+Stance : cbt
+
+[ 27 ]
+X : -5275
+Y : -775
+Z : -125
+XROT : Vector3(-0.829751, -0.558134, 0)
+YROT : Vector3(0.558134, -0.829751, 0)
+ZROT : Vector3(0, 0, 1)
+Action : cop_car_exit_to_rifle_combat_front_r
+Key : Cop1
+Stance : cbt
+
+[ 28 ]
+X : -5450
+Y : 650
+Z : -137.02499389648
+XROT : Vector3(0, -1, 0)
+YROT : Vector3(1, 0, 0)
+ZROT : Vector3(0, 0, 1)
+Action : so_crh_to_std
+Key : Sniper
+Stance : cbt
+
+[ 29 ]
+X : -5450
+Y : 550
+Z : -137.02499389648
+XROT : Vector3(0, -1, 0)
+YROT : Vector3(1, 0, 0)
+ZROT : Vector3(0, 0, 1)
+Action : so_crh_to_std
+Key : Sniper
+Stance : cbt
+
+[ 30 ]
+X : -2825
+Y : -3550
+Z : -125
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : BDozer
+Stance : Nil
+
+[ 31 ]
+X : 520
+Y : 57
+Z : 476.5530090332
+XROT : Vector3(-1, -1.19209e-007, 0)
+YROT : Vector3(1.19209e-007, -1, 0)
+ZROT : Vector3(0, 0, 1)
+Action : run_jumpdown
+Key : Cloaker
+Stance : cbt
+
+[ 32 ]
+X : -2734
+Y : -2720
+Z : 475.00100708008
+XROT : Vector3(0, -1, 0)
+YROT : Vector3(1, 0, 0)
+ZROT : Vector3(0, 0, 1)
+Action : repel_through_wndw_short
+Key : Cloaker
+Stance : cbt
+
+[ 33 ]
+X : -2740
+Y : -2294
+Z : 475.00100708008
+XROT : Vector3(0, -1, 0)
+YROT : Vector3(1, 0, 0)
+ZROT : Vector3(0, 0, 1)
+Action : repel_through_wndw_short
+Key : Cloaker
+Stance : cbt
+
+[ 34 ]
+X : 522
+Y : 31
+Z : 475.01998901367
+XROT : Vector3(1, 0, 0)
+YROT : Vector3(0, 1, 0)
+ZROT : Vector3(0, 0, 1)
+Action : run_jumpdown
+Key : Cloaker
+Stance : cbt
+
+[ 35 ]
+X : 538
+Y : 14
+Z : 476.5530090332
+XROT : Vector3(-1, -1.19209e-007, 0)
+YROT : Vector3(1.19209e-007, -1, 0)
+ZROT : Vector3(0, 0, 1)
+Action : run_jumpdown
+Key : Cloaker
+Stance : cbt
+
+[ 36 ]
+X : -2975
+Y : -3575
+Z : -144.99800109863
+XROT : Vector3(1, 0, 0)
+YROT : Vector3(0, 1, 0)
+ZROT : Vector3(0, 0, 1)
+Action : none
+Key : BSwat2
+Stance : Nil
+
+[ 37 ]
+X : -3100
+Y : 3775
+Z : -125
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : BDozer
+Stance : Nil
+
+[ 38 ]
+X : -750
+Y : -1550
+Z : 476.00100708008
+XROT : Vector3(1, 5.36442e-007, 0)
+YROT : Vector3(-5.36442e-007, 1, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : repel_vert
+Key : Taser
+Stance : cbt
+
+[ 39 ]
+X : -550
+Y : -1600
+Z : 476.00100708008
+XROT : Vector3(0, -1, 0)
+YROT : Vector3(1, 0, 0)
+ZROT : Vector3(0, 0, 1)
+Action : repel_vert
+Key : Taser
+Stance : cbt
+
+[ 40 ]
+X : -3275
+Y : 4275
+Z : 1475
+XROT : Vector3(-1, -2.38418e-007, 0)
+YROT : Vector3(2.38418e-007, -1, 0)
+ZROT : Vector3(0, 0, 1)
+Action : none
+Key : Sniper
+Stance : Nil
+
+[ 41 ]
+X : 2334
+Y : 1530
+Z : -25
+XROT : Vector3(-0.240921, 0.970545, 0)
+YROT : Vector3(-0.970545, -0.240921, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : WSec2
+Stance : Nil
+
+[ 42 ]
+X : 2078
+Y : 762
+Z : -21
+XROT : Vector3(0.305895, 0.952065, 0)
+YROT : Vector3(-0.952065, 0.305895, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : WSec1
+Stance : Nil
+
+[ 43 ]
+X : 6425
+Y : 800
+Z : -24.5
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : WSec1
+Stance : Nil
+
+[ 44 ]
+X : 1749
+Y : 1782
+Z : -21
+XROT : Vector3(-0.707108, 0.707106, 0)
+YROT : Vector3(-0.707106, -0.707108, 0)
+ZROT : Vector3(0, 0, 1)
+Action : none
+Key : WSec1
+Stance : Nil
+
+[ 45 ]
+X : 6550
+Y : 900
+Z : -24.5
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : WSec2
+Stance : Nil
+
+[ 46 ]
+X : 2971
+Y : 1142
+Z : -21
+XROT : Vector3(0, 1, 0)
+YROT : Vector3(-1, 0, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : none
+Key : WSec1
+Stance : Nil
+
+[ 47 ]
+X : 2375
+Y : 850
+Z : -24.895299911499
+XROT : Vector3(1, 0, 0)
+YROT : Vector3(0, 1, 0)
+ZROT : Vector3(0, 0, 1)
+Action : cop_car_exit_to_rifle_combat_front_r
+Key : WSec2
+Stance : cbt
+
+[ 48 ]
+X : -3000
+Y : 4225
+Z : 1475
+XROT : Vector3(-1, -2.38418e-007, 0)
+YROT : Vector3(2.38418e-007, -1, 0)
+ZROT : Vector3(0, 0, 1)
+Action : none
+Key : Sniper
+Stance : Nil
+
+[ 49 ]
+X : -3396
+Y : 2929
+Z : -25
+XROT : Vector3(-0.672554, 0.740048, 0)
+YROT : Vector3(-0.740048, -0.672554, 0)
+ZROT : Vector3(0, 0, 1)
+Action : plant_on_window
+Key : Swat1
+Stance : cbt
+
+[ 50 ]
+X : -1700
+Y : 2625
+Z : -8.5074501037598
+XROT : Vector3(0.707108, 0.707106, 0)
+YROT : Vector3(-0.707106, 0.707108, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : repel_vert
+Key : Swat1
+Stance : cbt
+
+[ 51 ]
+X : -1675
+Y : 2800
+Z : -24.974800109863
+XROT : Vector3(0.707108, 0.707106, 0)
+YROT : Vector3(-0.707106, 0.707108, -0)
+ZROT : Vector3(-0, 0, 1)
+Action : repel_vert
+Key : Swat1
+Stance : cbt
+
+[ 52 ]
+X : -2975
+Y : 2100
+Z : 550
+XROT : Vector3(0, -1, 0)
+YROT : Vector3(1, 0, 0)
+ZROT : Vector3(0, 0, 1)
+Action : repel_wall
+Key : Sniper
+Stance : cbt
+
+[ 53 ]
+X : -2975
+Y : 3000
+Z : 550
+XROT : Vector3(0, -1, 0)
+YROT : Vector3(1, 0, 0)
+ZROT : Vector3(0, 0, 1)
+Action : repel_wall
+Key : Sniper
+Stance : cbt
+
+[ 54 ]
+X : -3422
+Y : 3072
+Z : -25
+XROT : Vector3(-0.979161, -0.203086, 0)
+YROT : Vector3(0.203086, -0.979161, 0)
+ZROT : Vector3(0, 0, 1)
+Action : corner_l_jump
+Key : Swat1
+Stance : cbt
+

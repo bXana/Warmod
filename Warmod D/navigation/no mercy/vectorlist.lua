@@ -1,0 +1,2 @@
+WarmodNoMercyVector = {};
+WarmodNoMercyVectorBlack = {};

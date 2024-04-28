@@ -1,0 +1,289 @@
+-- машины начало в чс
+Cop1
+["Vector3(14302.9, 9257.42, 50)"] = true,
+{ Vector3( 14302.900390625, 9257.419921875, 50 ), Rotation( Vector3(0.32557, 0.945518, 0), Vector3(-0.945518, 0.32557, -0), Vector3(-0, 0, 1)), cop_car_exit_to_rifle_combat_front_r },
+Cop3
+["Vector3(14073, 8757.62, 37.9752)"] = true,
+{ Vector3( 14073, 8757.6201171875, 37.975200653076 ), Rotation( Vector3(0.573577, 0.819151, 0), Vector3(-0.819151, 0.573577, -0), Vector3(-0, 0, 1)), cop_car_exit_to_rifle_combat_front_r },
+Cop2
+["Vector3(14382.9, 8906.53, 37.9752)"] = true,
+{ Vector3( 14382.900390625, 8906.5302734375, 37.975200653076 ), Rotation( Vector3(-0.54464, 0.83867, 0), Vector3(-0.83867, -0.54464, 0), Vector3(0, 0, 1)), cop_car_exit_to_rifle_combat_front_l },
+Cop1
+["Vector3(13968, 8443, 50)"] = true,
+{ Vector3( 13968, 8443, 50 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), cop_car_exit_to_rifle_combat_front_l },
+-- далее пост в чс
+Cop2
+["Vector3(3557, 8945, 38.001)"] = true,
+{ Vector3( 3557, 8945, 38.000999450684 ), Rotation( Vector3(-0.707108, -0.707106, 0), Vector3(0.707106, -0.707108, 0), Vector3(0, 0, 1)), so_crh_to_std },
+Cop1
+["Vector3(3480, 9012, 38.001)"] = true,
+{ Vector3( 3480, 9012, 38.000999450684 ), Rotation( Vector3(-0.707108, -0.707106, 0), Vector3(0.707106, -0.707108, 0), Vector3(0, 0, 1)), so_crh_to_std },
+Swat1
+["Vector3(4816, 7643, 50)"] = true,
+{ Vector3( 4816, 7643, 50 ), Rotation( Vector3(0.707108, -0.707106, 0), Vector3(0.707106, 0.707108, 0), Vector3(0, 0, 1)), none },
+Swat1
+["Vector3(5715, 6821, 50)"] = true,
+{ Vector3( 5715, 6821, 50 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), none },
+Swat1
+["Vector3(4787, 6975, 50)"] = true,
+{ Vector3( 4787, 6975, 50 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), none },
+-- пост около разбившиеся машины в чс
+Cop2
+["Vector3(5458, -3088, 37.9752)"] = true,
+{ Vector3( 5458, -3088, 37.975200653076 ), Rotation( Vector3(0.992546, 0.121869, 0), Vector3(-0.121869, 0.992546, -0), Vector3(-0, 0, 1)), none },
+Cop3
+["Vector3(5077, -3080, 37.9752)"] = true,
+{ Vector3( 5077, -3080, 37.975200653076 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), none },
+--
+
+BSwat1
+["Vector3(7761, 3114, 50)"] = true,
+{ Vector3( 7761, 3114, 50 ), Rotation( Vector3(1.37091e-006, 1, 0), Vector3(-1, 1.37091e-006, -0), Vector3(-0, 0, 1)), so_climbover_std },
+Swat1
+["Vector3(-1863.46, -353.081, 50)"] = true,
+{ Vector3( -1863.4599609375, -353.08099365234, 50 ), Rotation( Vector3(-0.12187, 0.992546, 0), Vector3(-0.992546, -0.12187, -0), Vector3(-0, 0, 1)), spawn_swatbus_var2 },
+Swat1
+["Vector3(-1846, -452, 50)"] = true,
+{ Vector3( -1846, -452, 50 ), Rotation( Vector3(-0.275638, 0.961262, 0), Vector3(-0.961262, -0.275638, -0), Vector3(-0, 0, 1)), spawn_swatbus_var1 },
+Swat1
+["Vector3(-1200.92, -2100.54, 50)"] = true,
+{ Vector3( -1200.9200439453, -2100.5400390625, 50 ), Rotation( Vector3(-0.939693, 0.34202, 0), Vector3(-0.34202, -0.939693, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },
+BSwat2
+["Vector3(7738, 3207, 50)"] = true,
+{ Vector3( 7738, 3207, 50 ), Rotation( Vector3(1.37091e-006, 1, 0), Vector3(-1, 1.37091e-006, -0), Vector3(-0, 0, 1)), so_climbover_std },
+Swat1
+["Vector3(-2099, -2877, 50)"] = true,
+{ Vector3( -2099, -2877, 50 ), Rotation( Vector3(-1.43051e-006, 1, 0), Vector3(-1, -1.43051e-006, -0), Vector3(-0, 0, 1)), spawn_swatbus_var1 },
+BSwat2
+["Vector3(5030, -893, 37.9752)"] = true,
+{ Vector3( 5030, -893, 37.975200653076 ), Rotation( Vector3(1.37091e-006, -1, 0), Vector3(1, 1.37091e-006, 0), Vector3(0, 0, 1)), repel_vert },
+BSwat1
+["Vector3(5265.04, -821.05, 37.9752)"] = true,
+{ Vector3( 5265.0400390625, -821.04998779297, 37.975200653076 ), Rotation( Vector3(1.37091e-006, 1, 0), Vector3(-1, 1.37091e-006, -0), Vector3(-0, 0, 1)), repel_vert },
+BSwat1
+["Vector3(5089, -950, 37.9752)"] = true,
+{ Vector3( 5089, -950, 37.975200653076 ), Rotation( Vector3(0.996195, 0.0871564, 0), Vector3(-0.0871564, 0.996195, -0), Vector3(-0, 0, 1)), repel_vert },
+BSwat2
+["Vector3(5197, -771, 37.9752)"] = true,
+{ Vector3( 5197, -771, 37.975200653076 ), Rotation( Vector3(-1, 1.43051e-006, 0), Vector3(-1.43051e-006, -1, 0), Vector3(0, 0, 1)), repel_vert },
+Swat1
+["Vector3(-2432, -3502, 50)"] = true,
+{ Vector3( -2432, -3502, 50 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), none },
+Cop1
+["Vector3(-8521.66, 1011.06, 36.9951)"] = true,
+{ Vector3( -8521.66015625, 1011.0599975586, 36.995098114014 ), Rotation( Vector3(-0.707108, 0.707106, 0), Vector3(-0.707106, -0.707108, 0), Vector3(0, 0, 1)), none },
+Cop2
+["Vector3(-8366, 920, 36.9959)"] = true,
+{ Vector3( -8366, 920, 36.995899200439 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), none },
+Swat1
+["Vector3(-8325.89, -1143.47, 37.9752)"] = true,
+{ Vector3( -8325.8896484375, -1143.4699707031, 37.975200653076 ), Rotation( Vector3(-0.615662, 0.788011, 0), Vector3(-0.788011, -0.615662, 0), Vector3(0, 0, 1)), spawn_swatbus_var2 },
+Swat1
+["Vector3(-8358.35, -1042.08, 37.9752)"] = true,
+{ Vector3( -8358.349609375, -1042.0799560547, 37.975200653076 ), Rotation( Vector3(-0.358368, 0.93358, 0), Vector3(-0.93358, -0.358368, -0), Vector3(-0, 0, 1)), spawn_swatbus_var1 },
+Swat1
+["Vector3(-10742.9, -1103.91, 37.9752)"] = true,
+{ Vector3( -10742.900390625, -1103.9100341797, 37.975200653076 ), Rotation( Vector3(0.898794, 0.438371, 0), Vector3(-0.438371, 0.898794, -0), Vector3(-0, 0, 1)), spawn_swatbus_var2 },
+Swat1
+["Vector3(-9117.83, -8176.65, 37.9752)"] = true,
+{ Vector3( -9117.830078125, -8176.6499023438, 37.975200653076 ), Rotation( Vector3(-0.719341, -0.694658, 0), Vector3(0.694658, -0.719341, 0), Vector3(0, 0, 1)), spawn_swatbus_var2 },
+Cop1
+["Vector3(-9047.93, 1111.6, 36.9888)"] = true,
+{ Vector3( -9047.9296875, 1111.5999755859, 36.988800048828 ), Rotation( Vector3(-0.99863, -0.0523361, 0), Vector3(0.0523361, -0.99863, 0), Vector3(0, 0, 1)), cop_car_exit_to_rifle_combat_front_r },
+Cop2
+["Vector3(-8734.7, 1204.14, 36.9929)"] = true,
+{ Vector3( -8734.7001953125, 1204.1400146484, 36.992900848389 ), Rotation( Vector3(-0.891007, -0.45399, 0), Vector3(0.45399, -0.891007, 0), Vector3(0, 0, 1)), cop_car_exit_to_rifle_combat_front_l },
+Swat1
+["Vector3(-8355.65, -8551.63, 37.9752)"] = true,
+{ Vector3( -8355.650390625, -8551.6298828125, 37.975200653076 ), Rotation( Vector3(-0.615663, 0.78801, 0), Vector3(-0.78801, -0.615663, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },
+Swat1
+["Vector3(-9170.5, -8218.81, 50)"] = true,
+{ Vector3( -9170.5, -8218.8095703125, 50 ), Rotation( Vector3(-0.866025, -0.5, 0), Vector3(0.5, -0.866025, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },
+Swat1
+["Vector3(-8296.34, -8625.61, 37.9752)"] = true,
+{ Vector3( -8296.33984375, -8625.6103515625, 37.975200653076 ), Rotation( Vector3(-0.788011, 0.615661, 0), Vector3(-0.615661, -0.788011, 0), Vector3(0, 0, 1)), spawn_swatbus_var2 },
+Swat1
+["Vector3(-8986.41, -10866.6, 37.9752)"] = true,
+{ Vector3( -8986.41015625, -10866.599609375, 37.975200653076 ), Rotation( Vector3(-0.707108, 0.707106, 0), Vector3(-0.707106, -0.707108, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },
+Swat1
+["Vector3(-10197, -13296, 50)"] = true,
+{ Vector3( -10197, -13296, 50 ), Rotation( Vector3(-1, -1.78814e-007, 0), Vector3(1.78814e-007, -1, 0), Vector3(0, 0, 1)), none },
+Swat1
+["Vector3(-8470.48, -13484.8, 37.9752)"] = true,
+{ Vector3( -8470.48046875, -13484.799804688, 37.975200653076 ), Rotation( Vector3(0.292372, 0.956305, 0), Vector3(-0.956305, 0.292372, -0), Vector3(-0, 0, 1)), so_crh_to_std },
+Swat1
+["Vector3(-9376, -13622, 50)"] = true,
+{ Vector3( -9376, -13622, 50 ), Rotation( Vector3(0.981627, 0.190809, 0), Vector3(-0.190809, 0.981627, -0), Vector3(-0, 0, 1)), so_crh_to_std },
+Swat1
+["Vector3(-8185, -13596, 37.9752)"] = true,
+{ Vector3( -8185, -13596, 37.975200653076 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), so_crh_to_std },
+Swat1
+["Vector3(-8770.91, -13914.3, 37.9752)"] = true,
+{ Vector3( -8770.91015625, -13914.299804688, 37.975200653076 ), Rotation( Vector3(0.707108, -0.707106, 0), Vector3(0.707106, 0.707108, 0), Vector3(0, 0, 1)), so_crh_to_std },
+Swat1
+["Vector3(-9079.8, -14021.3, 37.9752)"] = true,
+{ Vector3( -9079.7998046875, -14021.299804688, 37.975200653076 ), Rotation( Vector3(0.707108, 0.707106, 0), Vector3(-0.707106, 0.707108, -0), Vector3(-0, 0, 1)), so_crh_to_std },
+Swat1
+["Vector3(-7346.27, -12958.6, 50)"] = true,
+{ Vector3( -7346.2700195313, -12958.599609375, 50 ), Rotation( Vector3(0.309017, -0.951056, 0), Vector3(0.951056, 0.309017, 0), Vector3(0, 0, 1)), so_repel_33m },
+Swat1
+["Vector3(-9278.01, -15543.4, 50)"] = true,
+{ Vector3( -9278.009765625, -15543.400390625, 50 ), Rotation( Vector3(-0.939692, -0.342022, 0), Vector3(0.342022, -0.939692, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },
+Sniper
+["Vector3(-12812, -14008, 1859.64)"] = true,
+{ Vector3( -12812, -14008, 1859.6400146484 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), so_crh_to_std },
+Swat1
+["Vector3(-8441.22, -15662.5, 37.9752)"] = true,
+{ Vector3( -8441.2197265625, -15662.5, 37.975200653076 ), Rotation( Vector3(-1, 1.16229e-006, 0), Vector3(-1.16229e-006, -1, 0), Vector3(0, 0, 1)), spawn_swatbus_var2 },
+Swat1
+["Vector3(-14495.3, -12756.6, 50)"] = true,
+{ Vector3( -14495.299804688, -12756.599609375, 50 ), Rotation( Vector3(-0.956304, -0.292373, 0), Vector3(0.292373, -0.956304, 0), Vector3(0, 0, 1)), so_repel_16m },
+Swat1
+["Vector3(-14398, -16003, 50)"] = true,
+{ Vector3( -14398, -16003, 50 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), none },
+BSwat1
+["Vector3(-11442, -14381, 160.447)"] = true,
+{ Vector3( -11442, -14381, 160.44700622559 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), none },
+BSwat2
+["Vector3(-11444, -14194, 160.447)"] = true,
+{ Vector3( -11444, -14194, 160.44700622559 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), none },
+Swat3
+["Vector3(-11270, -14400, 160.447)"] = true,
+{ Vector3( -11270, -14400, 160.44700622559 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), none },
+Shield
+["Vector3(-11269, -14200, 160.447)"] = true,
+{ Vector3( -11269, -14200, 160.44700622559 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), none },
+Swat1
+["Vector3(-14402, -16167, 50)"] = true,
+{ Vector3( -14402, -16167, 50 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), none },
+Sniper
+["Vector3(-7158, -6576, 1787.7)"] = true,
+{ Vector3( -7158, -6576, 1787.6999511719 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), so_crh_to_std },
+Sniper
+["Vector3(-5968, -12149, 3359.58)"] = true,
+{ Vector3( -5968, -12149, 3359.580078125 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), so_crh_to_std },
+Sniper
+["Vector3(-12054, -2643, 1938.99)"] = true,
+{ Vector3( -12054, -2643, 1938.9899902344 ), Rotation( Vector3(-0.707106, -0.707108, 0), Vector3(0.707108, -0.707106, 0), Vector3(0, 0, 1)), so_crh_to_std },
+Sniper
+["Vector3(-13949, -4624, 1787.28)"] = true,
+{ Vector3( -13949, -4624, 1787.2800292969 ), Rotation( Vector3(1.37091e-006, -1, 0), Vector3(1, 1.37091e-006, 0), Vector3(0, 0, 1)), so_crh_to_std },
+Shield
+["Vector3(-10049, -3551.26, 50)"] = true,
+{ Vector3( -10049, -3551.2600097656, 50 ), Rotation( Vector3(-0.707106, -0.707108, 0), Vector3(0.707108, -0.707106, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },
+Shield
+["Vector3(-9969.99, -3438.95, 50)"] = true,
+{ Vector3( -9969.990234375, -3438.9499511719, 50 ), Rotation( Vector3(-0.406736, -0.913546, 0), Vector3(0.913546, -0.406736, 0), Vector3(0, 0, 1)), spawn_swatbus_var2 },
+Shield
+["Vector3(-9979.56, -3475.2, 50)"] = true,
+{ Vector3( -9979.5595703125, -3475.1999511719, 50 ), Rotation( Vector3(-0.406736, -0.913546, 0), Vector3(0.913546, -0.406736, 0), Vector3(0, 0, 1)), spawn_swatbus_var2 },
+Shield
+["Vector3(-10028.5, -3543.48, 50)"] = true,
+{ Vector3( -10028.5, -3543.4799804688, 50 ), Rotation( Vector3(-0.707106, -0.707108, 0), Vector3(0.707108, -0.707106, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },
+-- значимый
+Swat1
+["Vector3(-12536, -4226, 50)"] = true,
+{ Vector3( -12536, -4226, 50 ), Rotation( Vector3(1, -5.36442e-007, 0), Vector3(5.36442e-007, 1, 0), Vector3(0, 0, 1)), repel_wall_building1 },
+Swat1
+["Vector3(-10029.9, -3532.17, 50)"] = true,
+{ Vector3( -10029.900390625, -3532.169921875, 50 ), Rotation( Vector3(-0.707106, -0.707108, 0), Vector3(0.707108, -0.707106, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },
+Swat1
+["Vector3(-9982.19, -3466.36, 50)"] = true,
+{ Vector3( -9982.1904296875, -3466.3601074219, 50 ), Rotation( Vector3(-0.406736, -0.913546, 0), Vector3(0.913546, -0.406736, 0), Vector3(0, 0, 1)), spawn_swatbus_var2 },
+Swat1
+["Vector3(-7299.99, -2717.35, 50)"] = true,
+{ Vector3( -7299.990234375, -2717.3500976563, 50 ), Rotation( Vector3(-0.981627, -0.19081, 0), Vector3(0.19081, -0.981627, 0), Vector3(0, 0, 1)), spawn_swatbus_var2 },
+Swat1
+["Vector3(-7199, -2682.7, 50)"] = true,
+{ Vector3( -7199, -2682.6999511719, 50 ), Rotation( Vector3(-0.788011, -0.615661, 0), Vector3(0.615661, -0.788011, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },
+Swat1
+["Vector3(-14166, -4893, 449.924)"] = true,
+{ Vector3( -14166, -4893, 449.92401123047 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), none },
+Swat1
+["Vector3(-14455, -5022, 449.958)"] = true,
+{ Vector3( -14455, -5022, 449.9580078125 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), none },
+BSwat1
+["Vector3(-10387, -3796, 50)"] = true,
+{ Vector3( -10387, -3796, 50 ), Rotation( Vector3(-1.43051e-006, -1, 0), Vector3(1, -1.43051e-006, 0), Vector3(0, 0, 1)), repel_vert },
+BSwat2
+["Vector3(-10313, -3935, 50)"] = true,
+{ Vector3( -10313, -3935, 50 ), Rotation( Vector3(1, -1.19209e-006, 0), Vector3(1.19209e-006, 1, 0), Vector3(0, 0, 1)), repel_vert },
+Taser
+["Vector3(-10353, -3742, 50)"] = true,
+{ Vector3( -10353, -3742, 50 ), Rotation( Vector3(-1, 1.19209e-006, 0), Vector3(-1.19209e-006, -1, 0), Vector3(0, 0, 1)), repel_vert },
+BSwat1
+["Vector3(-10267, -3891, 50)"] = true,
+{ Vector3( -10267, -3891, 50 ), Rotation( Vector3(1.37091e-006, 1, 0), Vector3(-1, 1.37091e-006, -0), Vector3(-0, 0, 1)), repel_vert },
+Swat1
+["Vector3(-14171, -5308, 449.931)"] = true,
+{ Vector3( -14171, -5308, 449.93099975586 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), none },
+Swat1
+["Vector3(-14442, -6044, 650.006)"] = true,
+{ Vector3( -14442, -6044, 650.00598144531 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), none },
+Swat1
+["Vector3(-17537.3, -10303.5, 1037.98)"] = true,
+{ Vector3( -17537.30078125, -10303.5, 1037.9799804688 ), Rotation( Vector3(-0.939693, -0.34202, 0), Vector3(0.34202, -0.939693, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },
+Swat1
+["Vector3(-15592.5, -10466.1, 1037.98)"] = true,
+{ Vector3( -15592.5, -10466.099609375, 1037.9799804688 ), Rotation( Vector3(-0.615662, -0.788011, 0), Vector3(0.788011, -0.615662, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },
+Swat1
+["Vector3(-13479, -9577, 1037.98)"] = true,
+{ Vector3( -13479, -9577, 1037.9799804688 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), none },
+Shield
+["Vector3(-14254, -5098, 449.935)"] = true,
+{ Vector3( -14254, -5098, 449.93499755859 ), Rotation( Vector3(0.999391, -0.0348997, -1.12088e-008), Vector3(0.0348997, 0.999391, 3.0181e-009), Vector3(1.10966e-008, -3.40744e-009, 1)), none },
+Shield
+["Vector3(-14417.7, -4893.72, 449.956)"] = true,
+{ Vector3( -14417.700195313, -4893.7202148438, 449.95599365234 ), Rotation( Vector3(0.681998, -0.731354, -1.00599e-008), Vector3(0.731354, 0.681998, -5.79168e-009), Vector3(1.10966e-008, -3.40744e-009, 1)), none },
+-- крутая точка
+Taser
+["Vector3(-14448, -4305, 552.108)"] = true,
+{ Vector3( -14448, -4305, 552.10797119141 ), Rotation( Vector3(-1, 2.38418e-007, 0), Vector3(-2.38418e-007, -1, 0), Vector3(0, 0, 1)), spawn_behind_wall_jump_over },
+Taser
+["Vector3(-14209, -4305, 552.108)"] = true,
+{ Vector3( -14209, -4305, 552.10797119141 ), Rotation( Vector3(-1, 2.38418e-007, 0), Vector3(-2.38418e-007, -1, 0), Vector3(0, 0, 1)), spawn_behind_wall_jump_over },
+Cop1
+["Vector3(-20682.7, -10397, 1037.98)"] = true,
+{ Vector3( -20682.69921875, -10397, 1037.9799804688 ), Rotation( Vector3(0.207912, -0.978148, 0), Vector3(0.978148, 0.207912, 0), Vector3(0, 0, 1)), none },
+Cop2
+["Vector3(-20941, -9959, 1037.98)"] = true,
+{ Vector3( -20941, -9959, 1037.9799804688 ), Rotation( Vector3(0.707108, -0.707106, 0), Vector3(0.707106, 0.707108, 0), Vector3(0, 0, 1)), none },
+Cop3
+["Vector3(-20922, -9791, 1037.98)"] = true,
+{ Vector3( -20922, -9791, 1037.9799804688 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), none },
+Cop1
+["Vector3(-20638, -9616, 1037.98)"] = true,
+{ Vector3( -20638, -9616, 1037.9799804688 ), Rotation( Vector3(-0.0523376, -0.99863, 0), Vector3(0.99863, -0.0523376, 0), Vector3(0, 0, 1)), none },
+Swat1
+["Vector3(-6325, -9851, 1787.13)"] = true,
+{ Vector3( -6325, -9851, 1787.1300048828 ), Rotation( Vector3(-0.402291, -0.914446, -0.0441656), Vector3(0.908989, -0.404708, 0.0997548), Vector3(-0.109095, -1.55754e-005, 0.994031)), spawn_swatbus_var1 },
+Swat1
+["Vector3(-3818.42, -11476.6, 2050)"] = true,
+{ Vector3( -3818.419921875, -11476.599609375, 2050 ), Rotation( Vector3(-0.882948, 0.469472, 0), Vector3(-0.469472, -0.882948, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },
+Swat1
+["Vector3(-6291.88, -9761.5, 1790.76)"] = true,
+{ Vector3( -6291.8798828125, -9761.5, 1790.7600097656 ), Rotation( Vector3(-0.13834, -0.990268, -0.0151984), Vector3(0.984358, -0.139172, 0.108031), Vector3(-0.109094, -1.57282e-005, 0.994031)), spawn_swatbus_var1 },
+Swat1
+["Vector3(-3748.69, -11519, 2050)"] = true,
+{ Vector3( -3748.6899414063, -11519, 2050 ), Rotation( Vector3(-0.956305, 0.292371, 0), Vector3(-0.292371, -0.956305, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },
+Swat1
+["Vector3(-3531.68, -9274.34, 2050)"] = true,
+{ Vector3( -3531.6799316406, -9274.33984375, 2050 ), Rotation( Vector3(0.777146, -0.629321, 0), Vector3(0.629321, 0.777146, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },
+Swat1
+["Vector3(208.477, -9188.22, 2050.01)"] = true,
+{ Vector3( 208.47700500488, -9188.2197265625, 2050.0100097656 ), Rotation( Vector3(0.390731, -0.920505, 0), Vector3(0.920505, 0.390731, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },
+Swat1
+["Vector3(192.077, -9110.43, 2050.01)"] = true,
+{ Vector3( 192.07699584961, -9110.4296875, 2050.0100097656 ), Rotation( Vector3(0.615662, -0.788011, 0), Vector3(0.788011, 0.615662, 0), Vector3(0, 0, 1)), spawn_swatbus_var2 },
+Swat1
+["Vector3(208, -11973, 2050)"] = true,
+{ Vector3( 208, -11973, 2050 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), none },
+Swat1
+["Vector3(208, -12080, 2050)"] = true,
+{ Vector3( 208, -12080, 2050 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), none },
+Swat1
+["Vector3(463.686, -10448.9, 2038.01)"] = true,
+{ Vector3( 463.68600463867, -10448.900390625, 2038.0100097656 ), Rotation( Vector3(-0.207911, -0.978148, 0), Vector3(0.978148, -0.207911, 0), Vector3(0, 0, 1)), spawn_swatbus_var2 },
+Swat1
+["Vector3(472.319, -10547.3, 2038.01)"] = true,
+{ Vector3( 472.31900024414, -10547.299804688, 2038.0100097656 ), Rotation( Vector3(-0.515038, -0.857168, 0), Vector3(0.857168, -0.515038, 0), Vector3(0, 0, 1)), spawn_swatbus_var1 },

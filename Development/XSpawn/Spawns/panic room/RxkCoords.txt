@@ -1,0 +1,67 @@
+-- левый забор
+{ Vector3( 1887, 2448, -26 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( 1899, 2659, -26 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( 1898, 2592, -26 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( 2029, 2668, -26 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( 2023, 2598, -26 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( 1969, 2636, -26 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( 2000.9899902344, 2388, -24.674800872803 ), Rotation( Vector3(-0.999174, -1.78739e-007, -0.0406412), Vector3(1.78815e-007, -1, 1.7721e-009), Vector3(-0.0406412, -5.49663e-009, 0.999174)), "none" },
+{ Vector3( 1994, 2519, -25 ), Rotation( Vector3(-1, -1.19209e-007, 0), Vector3(1.19209e-007, -1, 0), Vector3(0, 0, 1)), "none" },
+-- правый забор
+{ Vector3( -2751, 2999, -26.544200897217 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( -2861, 2909, -25.024200439453 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( -2818, 3030, -25.020099639893 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( -2856, 2995, -25.02379989624 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( -2768, 2921, -26.013999938965 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( -2772, 3073, -25.891500473022 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( -2713, 2938, -25.028999328613 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "none" },
+-- из правого переулка
+{ Vector3( -1968, -3195, -25 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "none" },
+{ Vector3( -2046, -3194, -25 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "none" },
+{ Vector3( -2129, -3196, -25 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "none" },
+{ Vector3( -1810, -3200, -25 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "none" },
+{ Vector3( -2206, -3201, -25 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "none" },
+-- из левого переулка
+{ Vector3( 1265, -3489, -25 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( 1181, -3498, -25 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( 1180, -3559, -25 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( 1187, -3820, -25 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( 1262, -3564, -25 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( 1256, -3820, -25 ), Rotation( Vector3(1, 1.19209e-006, 0), Vector3(-1.19209e-006, 1, -0), Vector3(-0, 0, 1)), "none" },
+{ Vector3( 1257, -3735, -25 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( 1249, -3642, -25 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( 1212, -2603, -25 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "none" },
+{ Vector3( 1216, -2508, -25 ), Rotation( Vector3(1, 0, 0), Vector3(0, 1, 0), Vector3(0, 0, 1)), "none" },
+
+-- центр перила
+{ Vector3( -1050, 2099, 372.15701293945 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "move_climbover_std" },
+-- центр перила 2 этаж
+{ Vector3( -1445, 1773, 697.15698242188 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "move_jump_down_far5" },
+-- левый с улицы
+{ Vector3( 2555, -526, -29 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "none" },
+-- левый 2-й этаж нулевой из окна
+{ Vector3( 393, 1327, 700.0009765625 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "move_jump_down_far" },
+-- крыша вызов тазеров
+{ Vector3( 344, 197, 1675 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "move_jump_down_far4" },
+{ Vector3( 346, 195, 1675 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "move_jump_down_far4" },
+-- 3-й этаж крайнее окно прыжок стол перевернут
+{ Vector3( 390, 180, 1025 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "move_jump_down_far" },
+-- 4-й этаж рядом с коробками прыжок
+{ Vector3( 372, 1331, 1352.3100585938 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "move_jump_down_far" },
+-- крыша центральный спавн
+{ Vector3( 178, 3677, 1925 ), Rotation( Vector3(-1.43051e-006, 1, 0), Vector3(-1, -1.43051e-006, -0), Vector3(-0, 0, 1)), "so_crh_to_std" },
+{ Vector3( -985, 3023, 1925 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "so_crh_to_std" },
+{ Vector3( 996, 2984, 1925 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "so_crh_to_std" },
+{ Vector3( -1036, 3029, 1925 ), Rotation( Vector3(0, -1, 0), Vector3(1, 0, 0), Vector3(0, 0, 1)), "so_crh_to_std" },
+{ Vector3( -1860, 3413, 1925 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "so_crh_to_std" },
+{ Vector3( 89, 3680, 1925 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "so_crh_to_std" },
+-- крыша правый спавн
+{ Vector3( -4140, 1492, 1925 ), Rotation( Vector3(-1, 1.19209e-007, 0), Vector3(-1.19209e-007, -1, 0), Vector3(0, 0, 1)), "so_crh_to_std" },
+{ Vector3( -4135, 1384, 1925 ), Rotation( Vector3(-1, 1.19209e-007, 0), Vector3(-1.19209e-007, -1, 0), Vector3(0, 0, 1)), "so_crh_to_std" },
+{ Vector3( -4215, 1437, 1925 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "so_crh_to_std" },
+-- 4-й этаж центральный спавн прыжок
+{ Vector3( -666, 1756, 1347.1600341797 ), Rotation( Vector3(-1, -2.38418e-007, 0), Vector3(2.38418e-007, -1, 0), Vector3(0, 0, 1)), "move_jump_down_far3" },
+-- крыша спавн тазеров с иного угла
+{ Vector3( 376, 1324, 1675 ), Rotation( Vector3(0, 1, 0), Vector3(-1, 0, -0), Vector3(-0, 0, 1)), "move_jump_down_far4" },
+--
+
